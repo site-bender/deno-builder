@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createStrikethroughConfig/mod.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4257, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 212, "endOffset": 523, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 607, "endOffset": 1240, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

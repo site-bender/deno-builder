@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createOrderedListConfig/mod.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4237, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 208, "endOffset": 518, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 600, "endOffset": 1232, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

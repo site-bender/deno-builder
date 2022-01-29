@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createTableFooterConfig/mod.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4251, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 208, "endOffset": 521, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 603, "endOffset": 1238, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

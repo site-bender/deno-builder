@@ -1,0 +1,16 @@
+{
+  "scriptId": "85",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/types.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 44074, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 28, "endOffset": 4108, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createBidirectionalOverridConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2191, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createBidirectionalOverridConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 440, "count": 2 },
+        { "startOffset": 243, "endOffset": 265, "count": 1 },
+        { "startOffset": 266, "endOffset": 270, "count": 1 },
+        { "startOffset": 294, "endOffset": 304, "count": 1 },
+        { "startOffset": 305, "endOffset": 309, "count": 1 },
+        { "startOffset": 350, "endOffset": 361, "count": 1 },
+        { "startOffset": 362, "endOffset": 366, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createDefinitionConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2113, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createDefinitionConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 430, "count": 2 },
+        { "startOffset": 233, "endOffset": 255, "count": 1 },
+        { "startOffset": 256, "endOffset": 260, "count": 1 },
+        { "startOffset": 284, "endOffset": 294, "count": 1 },
+        { "startOffset": 295, "endOffset": 299, "count": 1 },
+        { "startOffset": 340, "endOffset": 351, "count": 1 },
+        { "startOffset": 352, "endOffset": 356, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

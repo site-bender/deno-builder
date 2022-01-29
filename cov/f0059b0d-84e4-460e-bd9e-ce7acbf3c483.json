@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createBidirectionalInsertConfig/mod.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4335, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 224, "endOffset": 543, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 633, "endOffset": 1274, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

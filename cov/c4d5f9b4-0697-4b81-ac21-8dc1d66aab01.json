@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createBreakConfig/mod.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4167, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 196, "endOffset": 500, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 576, "endOffset": 1202, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

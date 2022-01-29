@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createSubscriptConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2104, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createSubscriptConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 429, "count": 2 },
+        { "startOffset": 232, "endOffset": 254, "count": 1 },
+        { "startOffset": 255, "endOffset": 259, "count": 1 },
+        { "startOffset": 283, "endOffset": 293, "count": 1 },
+        { "startOffset": 294, "endOffset": 298, "count": 1 },
+        { "startOffset": 339, "endOffset": 350, "count": 1 },
+        { "startOffset": 351, "endOffset": 355, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

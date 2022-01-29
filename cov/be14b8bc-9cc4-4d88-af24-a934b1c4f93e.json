@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createDescriptionListConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2149, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createDescriptionListConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 434, "count": 2 },
+        { "startOffset": 238, "endOffset": 260, "count": 1 },
+        { "startOffset": 261, "endOffset": 265, "count": 1 },
+        { "startOffset": 289, "endOffset": 299, "count": 1 },
+        { "startOffset": 300, "endOffset": 304, "count": 1 },
+        { "startOffset": 345, "endOffset": 356, "count": 1 },
+        { "startOffset": 357, "endOffset": 361, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

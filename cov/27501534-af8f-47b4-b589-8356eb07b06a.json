@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createRubyParentheticalConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2163, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRubyParentheticalConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 436, "count": 2 },
+        { "startOffset": 240, "endOffset": 262, "count": 1 },
+        { "startOffset": 263, "endOffset": 267, "count": 1 },
+        { "startOffset": 291, "endOffset": 301, "count": 1 },
+        { "startOffset": 302, "endOffset": 306, "count": 1 },
+        { "startOffset": 347, "endOffset": 358, "count": 1 },
+        { "startOffset": 359, "endOffset": 363, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

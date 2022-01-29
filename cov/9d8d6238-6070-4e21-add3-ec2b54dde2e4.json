@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createCiteConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2056, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createCiteConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 425, "count": 2 },
+        { "startOffset": 227, "endOffset": 249, "count": 1 },
+        { "startOffset": 250, "endOffset": 254, "count": 1 },
+        { "startOffset": 278, "endOffset": 288, "count": 1 },
+        { "startOffset": 289, "endOffset": 293, "count": 1 },
+        { "startOffset": 334, "endOffset": 345, "count": 1 },
+        { "startOffset": 346, "endOffset": 350, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

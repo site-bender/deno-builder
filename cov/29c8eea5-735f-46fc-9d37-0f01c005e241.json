@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createStrongEmphasisConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2152, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createStrongEmphasisConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 437, "count": 2 },
+        { "startOffset": 237, "endOffset": 259, "count": 1 },
+        { "startOffset": 260, "endOffset": 264, "count": 1 },
+        { "startOffset": 288, "endOffset": 298, "count": 1 },
+        { "startOffset": 299, "endOffset": 303, "count": 1 },
+        { "startOffset": 344, "endOffset": 355, "count": 1 },
+        { "startOffset": 356, "endOffset": 360, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

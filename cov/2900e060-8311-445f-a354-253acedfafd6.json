@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createPictureConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2086, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createPictureConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 431, "count": 2 },
+        { "startOffset": 230, "endOffset": 252, "count": 1 },
+        { "startOffset": 253, "endOffset": 257, "count": 1 },
+        { "startOffset": 281, "endOffset": 291, "count": 1 },
+        { "startOffset": 292, "endOffset": 296, "count": 1 },
+        { "startOffset": 337, "endOffset": 348, "count": 1 },
+        { "startOffset": 349, "endOffset": 353, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

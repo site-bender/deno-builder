@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createKeyboardConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createKeyboardConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 428, "count": 2 },
+        { "startOffset": 231, "endOffset": 253, "count": 1 },
+        { "startOffset": 254, "endOffset": 258, "count": 1 },
+        { "startOffset": 282, "endOffset": 292, "count": 1 },
+        { "startOffset": 293, "endOffset": 297, "count": 1 },
+        { "startOffset": 338, "endOffset": 349, "count": 1 },
+        { "startOffset": 350, "endOffset": 354, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

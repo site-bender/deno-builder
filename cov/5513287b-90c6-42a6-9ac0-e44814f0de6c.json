@@ -1,0 +1,24 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/ludwig/Workspace/site-bender/deno-builder/src/elements/createItalicConfig/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2063, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createItalicConfig",
+      "ranges": [
+        { "startOffset": 64, "endOffset": 424, "count": 2 },
+        { "startOffset": 229, "endOffset": 251, "count": 1 },
+        { "startOffset": 252, "endOffset": 256, "count": 1 },
+        { "startOffset": 280, "endOffset": 290, "count": 1 },
+        { "startOffset": 291, "endOffset": 295, "count": 1 },
+        { "startOffset": 336, "endOffset": 347, "count": 1 },
+        { "startOffset": 348, "endOffset": 352, "count": 1 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
